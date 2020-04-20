@@ -62,7 +62,7 @@ class App extends Component<{}, IState> {
     return (
       <div className="App">
         <header className="App-header">
-          Bank & Merge Co Task 2
+          Stock Price Visualization (Fake Data)
         </header>
         <div className="App-content">
           <button className="btn btn-primary Stream-button"
